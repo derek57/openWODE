@@ -8,7 +8,7 @@ Update:
 
 This archive, while it's in the original state, does NOT contain:
 
-- Bootloader source code (U-Boot v1.3.4 incl. LPC313x patches)
+- Bootloader source code (U-Boot v1.3.4 incl. LPC313x patches, DirectC driver code and custom code additions)
 - Bootloader AES key
 - "WODE" binary source code used within the WODE Linux Kernel for interaction on the LCD screen
 
