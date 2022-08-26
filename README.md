@@ -5,6 +5,7 @@ Please refer to file "OpenWode_GettingStarted_20110520.pdf" for instructions on 
 Please also see https://vermillion57.wixsite.com/wode-re for more information on the WODE internals, hardware and so on.
 
 Update:
+=======
 
 This archive, while it's in the original state, does NOT contain:
 
@@ -32,3 +33,10 @@ SHA-256 of the Bootloader AES key: 1C08F957CD7E5AC4065D9CDEA23604590A1EFFC2507F7
 NOTE - The LPC3143 boot flow looks like this:
 
 BOOTROM -> Bootloader -> Kernel -> APP
+
+Additional refs: 
+================
+
+https://github.com/alicemirror/Open-Wode-Backfire - Enrico a. k. a. "AliceMirror" who was working on the WODE Linux Kernel
+https://www.mail-archive.com/openwrt-devel@lists.openwrt.org/msg06818.html - Signs of life when it comes to Kernel development
+https://lists.denx.de/pipermail/u-boot/2009-March/049975.html - Signs of life when it comes to Bootloader development
