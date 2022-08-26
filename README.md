@@ -38,5 +38,5 @@ Additional refs:
 ================
 
 https://github.com/alicemirror/Open-Wode-Backfire - Enrico a. k. a. "AliceMirror" who was working on the WODE Linux Kernel
-https://www.mail-archive.com/openwrt-devel@lists.openwrt.org/msg06818.html - Signs of life when it comes to Kernel development
-https://lists.denx.de/pipermail/u-boot/2009-March/049975.html - Signs of life when it comes to Bootloader development
+https://www.mail-archive.com/openwrt-devel@lists.openwrt.org/msg06818.html - Signs of life for Kernel development
+https://lists.denx.de/pipermail/u-boot/2009-March/049975.html - Signs of life for Bootloader development
