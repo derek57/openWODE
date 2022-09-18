@@ -34,6 +34,25 @@ NOTE - The LPC3143 boot flow looks like this:
 
 BOOTROM -> Bootloader -> Kernel -> APP
 
+Patch:
+======
+
+The "patch-openwode-git.diff" should make OPENWODE compile on newer Linux distributions.
+
+After setting up the main repository, the end user needs to "cd" into the actual repositories' root folder and issue a...
+
+* - patch -p1 < [PATH-TO-patch-openwode-git.diff]
+
+...command on the shell. Then you run the commands...
+
+* - ./build.sh prepare
+
+...and...
+
+* - ./build.sh build
+
+...to compile this.
+
 Additional refs: 
 ================
 
