@@ -14,6 +14,7 @@ This archive, while it's in the original state, does NOT contain:
 - "WODE" binary source code used within the WODE Linux Kernel for interaction on the LCD screen
 - Actel ProASIC3 FPGA VHDL source code
 - Actel ProASIC3 FPGA AES key
+- Actel ProASIC3 FPGA password
 
 These were never released and most likely never will.
 
